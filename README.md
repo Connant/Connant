@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hi! My name is **Daria**!
+### Im a beginner *react developer* from Tomsk.
 
-<!--
-**Connant/Connant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat&logo=typescript)
+![React](https://img.shields.io/badge/-React-9cf?style=flat&logo=react)
+![Redux](https://img.shields.io/badge/-Redux-blueviolet?style=flat&logo=redux)
+![HTML](https://img.shields.io/badge/-HTML-090909?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-blue?style=flat&logo=css)
+![Less](https://img.shields.io/badge/-Less-1c3a63?style=flat&logo=less)
+![Git](https://img.shields.io/badge/-Git-orange?style=flat&logo=git)
 
-Here are some ideas to get you started:
+### You can contact me by telegram or mail.
+### ✉️ e-mail: diconna@gmail.com
+### 🌐 telegram: @dariaasa
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
