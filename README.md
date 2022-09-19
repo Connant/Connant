@@ -10,6 +10,8 @@
 ![Less](https://img.shields.io/badge/-Less-090909?style=flat&logo=less)
 ![Git](https://img.shields.io/badge/-Git-090909?style=flat&logo=git)
 
+[![trophy](https://github-profile-trophy.vercel.app/Connant=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
 ### You can contact me by telegram or mail.
 ### ✉️ e-mail: diconna@gmail.com
 ### 🌐 telegram: @dariaasa
