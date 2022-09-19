@@ -10,8 +10,9 @@
 ![Less](https://img.shields.io/badge/-Less-090909?style=flat&logo=less)
 ![Git](https://img.shields.io/badge/-Git-090909?style=flat&logo=git)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Connant)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Connant)](https://github.com/anuraghazra/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Connant)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### You can contact me by telegram or mail.
 ### ✉️ e-mail: diconna@gmail.com
