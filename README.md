@@ -10,8 +10,6 @@
 ![Less](https://img.shields.io/badge/-Less-090909?style=flat&logo=less)
 ![Git](https://img.shields.io/badge/-Git-090909?style=flat&logo=git)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Connant)](https://github.com/anuraghazra/github-readme-stats)
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Connant&theme=solarized_dark)
 
 ### You can contact me by telegram or mail.
