@@ -10,7 +10,7 @@
 ![Less](https://img.shields.io/badge/-Less-090909?style=flat&logo=less)
 ![Git](https://img.shields.io/badge/-Git-090909?style=flat&logo=git)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/Connantanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Connant)](https://github.com/anuraghazra/github-readme-stats)
 
 ### You can contact me by telegram or mail.
 ### ✉️ e-mail: diconna@gmail.com
