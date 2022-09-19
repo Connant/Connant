@@ -12,7 +12,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Connant)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Connant&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Connant&theme=solarized_dark)
 
 ### You can contact me by telegram or mail.
 ### ✉️ e-mail: diconna@gmail.com
