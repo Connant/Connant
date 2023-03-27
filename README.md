@@ -1,5 +1,6 @@
-## Hi! My name is **Daria**!
-### Im a junior *react developer* from Tomsk.
+## Hi
+### My name is **Daria**!
+### Im junior *react developer* from Tomsk.
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=flat&logo=typescript)
