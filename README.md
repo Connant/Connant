@@ -9,6 +9,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=flat&logo=css)
 ![Less](https://img.shields.io/badge/-Less-090909?style=flat&logo=less)
 ![Git](https://img.shields.io/badge/-Git-090909?style=flat&logo=git)
+![Sass](https://img.shields.io/badge/-Sass-090909?style=flat&logo=sass)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Connant&theme=solarized_dark)
 
