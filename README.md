@@ -1,5 +1,5 @@
-## Hi, my name is **Daria**!
-### Im junior *react developer* from Tomsk.
+## Hi, I'm **Daria** 🍀
+### Im *frontend developer developer*.
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=flat&logo=typescript)
@@ -15,7 +15,7 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Connant&theme=solarized_dark)
 
-### You can contact me by telegram or mail.
+### U can contact me by telegram or mail.
 ### ✉️ e-mail: diconna@gmail.com
 ### 🌐 telegram: @dariaasa
 
