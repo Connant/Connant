@@ -15,7 +15,6 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Connant&theme=solarized_dark)
 
-### U can contact me by telegram or mail.
 ### ✉️ e-mail: diconna@gmail.com
 ### 🌐 telegram: @dariaasa
 
