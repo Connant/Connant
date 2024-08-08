@@ -1,4 +1,4 @@
-### Hi, I'm **Daria** 🍀
+### Hi, I'm **Dari** 🍀
 ### Im *frontend developer*.
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=flat&logo=javascript)
